@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "Avidan",
+      "datetime": "February 17, 2023 11:00:54 AM",
+      "body": "Lorem Ipsum "
+    },
+    {
+      "id": 3,
+      "title": "Alina",
+      "datetime": "February 17, 2023 8:38:07 PM",
+      "body": "Lorem Ipsum AAAAAscscsc"
+    },
+    {
+      "id": 4,
+      "title": "Serena",
+      "datetime": "February 17, 2023 8:32:33 PM",
+      "body": "Declares a thunk "
+    },
+    {
+      "id": 5,
+      "title": "Mars",
+      "datetime": "February 17, 2023 8:39:28 PM",
+      "body": "Create the store\n\nEncapsulating side effects via thunks\nDispatching thunks within your components\nDeriving state via computed properties\nUsing computed properties\nPersisting state\n#Create the store"
+    },
+    {
+      "id": 6,
+      "title": "Marianna",
+      "datetime": "February 17, 2023 8:42:51 PM",
+      "body": "Another interesting property of thunks is that any value that is returned from a thunk will be provided to the caller - i.e. where it was dispatched from. Therefore if you were using async/await, or returned a Promise, from your thunk the caller would be able to chain off the returned Promise to know when the thunk has completed"
+    }
+  ]
+}
